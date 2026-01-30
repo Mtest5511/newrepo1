@@ -1,1 +1,1 @@
-This is my first message. 
+This is my first message.Git bash is a command-line tool that is used as Git CLI emulation for Microsoft Windows. It provides a terminal-like interface and enables users to run Git commands and interact with a repository.
